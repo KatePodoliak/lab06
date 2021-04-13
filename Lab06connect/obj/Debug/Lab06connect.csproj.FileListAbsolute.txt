@@ -1,0 +1,10 @@
+D:\KHAI\3 year\2 sem\systemProgramming\labs\lab6\Lab06connect\bin\Debug\Lab06connect.exe.config
+D:\KHAI\3 year\2 sem\systemProgramming\labs\lab6\Lab06connect\bin\Debug\Lab06connect.exe
+D:\KHAI\3 year\2 sem\systemProgramming\labs\lab6\Lab06connect\bin\Debug\Lab06connect.pdb
+D:\KHAI\3 year\2 sem\systemProgramming\labs\lab6\Lab06connect\obj\Debug\Lab06connect.csprojAssemblyReference.cache
+D:\KHAI\3 year\2 sem\systemProgramming\labs\lab6\Lab06connect\obj\Debug\Lab06connect.Form1.resources
+D:\KHAI\3 year\2 sem\systemProgramming\labs\lab6\Lab06connect\obj\Debug\Lab06connect.Properties.Resources.resources
+D:\KHAI\3 year\2 sem\systemProgramming\labs\lab6\Lab06connect\obj\Debug\Lab06connect.csproj.GenerateResource.cache
+D:\KHAI\3 year\2 sem\systemProgramming\labs\lab6\Lab06connect\obj\Debug\Lab06connect.csproj.CoreCompileInputs.cache
+D:\KHAI\3 year\2 sem\systemProgramming\labs\lab6\Lab06connect\obj\Debug\Lab06connect.exe
+D:\KHAI\3 year\2 sem\systemProgramming\labs\lab6\Lab06connect\obj\Debug\Lab06connect.pdb
